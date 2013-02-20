@@ -1,0 +1,20 @@
+<publishData>
+  <publishTarget publishUrl="C:\Users\mp1josex\Desktop\publicaciones\FOTOSTEMPUS\">
+    <file relUrl="BuscarUsuario.aspx" publishTime="02/18/2013 09:01:08" />
+    <file relUrl="js/funciones.js" publishTime="02/15/2013 14:44:15" />
+    <file relUrl="css/ChromeBlackGridView.css" publishTime="02/15/2013 14:44:15" />
+    <file relUrl="bin/FotosTempus.xml" publishTime="02/18/2013 09:02:07" />
+    <file relUrl="ModificarFoto.aspx" publishTime="02/15/2013 15:22:22" />
+    <file relUrl="images/bgs/ico-info.gif" publishTime="02/18/2013 09:01:06" />
+    <file relUrl="bin/FotosTempus.pdb" publishTime="02/18/2013 09:02:07" />
+    <file relUrl="js/jquery-1.8.3.min.js" publishTime="02/15/2013 14:44:15" />
+    <file relUrl="Web.config" publishTime="02/15/2013 15:14:12" />
+    <file relUrl="Default.aspx" publishTime="02/15/2013 14:37:40" />
+    <file relUrl="css/estilosModificarInstitucion.css" publishTime="02/15/2013 14:44:15" />
+    <file relUrl="bin/Microsoft.ApplicationBlocks.Data.dll" publishTime="02/15/2013 14:42:21" />
+    <file relUrl="css/estilosRegistroImagen.css" publishTime="02/15/2013 14:44:15" />
+    <file relUrl="bin/FotosTempus.dll" publishTime="02/18/2013 09:02:07" />
+    <file relUrl="complementos/Microsoft.ApplicationBlocks.Data.dll" publishTime="02/15/2013 14:42:21" />
+    <file relUrl="css/estilos.css" publishTime="02/15/2013 14:44:15" />
+  </publishTarget>
+</publishData>

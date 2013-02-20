@@ -1,0 +1,101 @@
+﻿.FooterStyle
+{
+	
+}
+.EmptyRowStyle
+{
+
+}
+
+/*GridViewCSS Chrome Black Style*/
+.GridViewStyle
+{
+    font-family: Arial, Sans-Serif;
+    font-size:small;
+    table-layout: auto;
+    border-collapse: collapse;
+    border: #FFF 3px solid;
+	text-align: left;
+	width: 95%;	
+}
+/*Header and Pager styles*/
+.HeaderStyle, .PagerStyle /*Common Styles*/
+{
+    /*background-image: url(Images/HeaderChromeBlack.jpg);*/    
+    /*background-position:center;
+    background-repeat:repeat-x;*/
+    background-color:#1E90FF;
+}
+.HeaderStyle th
+{
+    background:#377ac0 url(../images/int/col-right/bg-table-head.png) repeat-x 0% 0%;
+    height:18px; 
+    line-height:16px; 
+    font-size:11px; 
+    text-transform:uppercase; 
+    color:#fff; 
+    font-weight:bold;
+    padding: 5px;
+    /*color: #ffffff;
+    background: #1E90FF;*/
+}
+.HeaderStyle a
+{
+    text-decoration:none;
+    color:#ffffff;
+    display:block;
+    text-align:left;
+    font-weight:normal;
+}
+.PagerStyle table
+{
+    text-align:center;
+    margin:auto;           
+}
+.PagerStyle table td
+{
+    border:0px;
+    padding:5px;
+}
+.PagerStyle td
+{
+    border-top: #1d1d1d 3px solid;
+    color: #000000;
+}
+.PagerStyle a
+{
+    font-weight:bold;
+    color:#ffffff;
+    text-decoration:none;
+    padding:2px 10px 2px 10px;
+    
+    /*border-top:solid 1px #777777;
+    border-right:solid 1px #333333;
+    border-bottom:solid 1px #333333;
+    border-left:solid 1px #777777;*/
+}
+.PagerStyle span
+{
+    font-weight:bold;
+    color:#FFFFFF;
+    text-decoration:none;
+    padding:2px 10px 2px 10px;
+}
+/*RowStyles*/
+.RowStyle td, .AltRowStyle td, .SelectedRowStyle td, .EditRowStyle td /*Common Styles*/
+{
+    padding: 5px;
+    border-right: solid 1px #1d1d1d;
+}
+.RowStyle td
+{
+    background-color: #efefef;/*#dcdcdc;/*#c9c9c9;*/
+}
+.AltRowStyle td
+{
+    background-color: #e0e0e0;	/*#f0f0f0;*/
+}
+.SelectedRowStyle td
+{
+    background-color: #ffff66;
+}

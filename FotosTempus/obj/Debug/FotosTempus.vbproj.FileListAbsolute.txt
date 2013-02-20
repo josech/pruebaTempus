@@ -1,0 +1,10 @@
+C:\DESARROLLO\Aplicaciones\FotosTempus\FotosTempus\bin\FotosTempus.dll
+C:\DESARROLLO\Aplicaciones\FotosTempus\FotosTempus\bin\FotosTempus.pdb
+C:\DESARROLLO\Aplicaciones\FotosTempus\FotosTempus\bin\FotosTempus.xml
+C:\DESARROLLO\Aplicaciones\FotosTempus\FotosTempus\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\DESARROLLO\Aplicaciones\FotosTempus\FotosTempus\obj\Debug\ResolveAssemblyReference.cache
+C:\DESARROLLO\Aplicaciones\FotosTempus\FotosTempus\obj\Debug\FotosTempus.Resources.resources
+C:\DESARROLLO\Aplicaciones\FotosTempus\FotosTempus\obj\Debug\FotosTempus.vbproj.GenerateResource.Cache
+C:\DESARROLLO\Aplicaciones\FotosTempus\FotosTempus\obj\Debug\FotosTempus.dll
+C:\DESARROLLO\Aplicaciones\FotosTempus\FotosTempus\obj\Debug\FotosTempus.xml
+C:\DESARROLLO\Aplicaciones\FotosTempus\FotosTempus\obj\Debug\FotosTempus.pdb

@@ -1,0 +1,20 @@
+﻿body {
+	
+	background: #2b6fb5 url(../images/int/bg-n2.png) repeat-x 0% 0%;
+	margin: 0px;
+	/*background: black url(../images/bg-login.png) repeat-x;   
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#1E90FF), to(#87CEEB));    
+    background: -webkit-linear-gradient(top, #87CEEB, #1E90FF);    
+    background: -moz-linear-gradient(top, #87CEEB, #1E90FF);    
+    background: -o-linear-background(top, #87CEEB, #1E90FF);   
+    background: -ms-linear-background(top, #87CEEB, #1E90FF);    
+    background: linear-background(top, #87CEEB, #1E90FF);
+	background: linear-gradient(top, #87CEEB, #1E90FF);*/
+	
+	font-family:Arial, Helvetica, sans-serif; font-size:12px;
+}
+#header{		
+	font-weight:bold; 
+	font-size: 16px;
+	height:170px;
+}
